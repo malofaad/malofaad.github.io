@@ -1,2 +1,4 @@
 # malofaad.github.io
-what's up? I am trying to make a website and learn UI/UX design.
+Hello! I am a UCSC student, trying my best to learn UI/UX design.
+
+In all that I do, I am an artist.
